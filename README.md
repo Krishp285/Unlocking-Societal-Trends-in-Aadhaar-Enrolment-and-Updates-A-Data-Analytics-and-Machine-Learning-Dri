@@ -176,7 +176,7 @@ uidai/
 ```
 ## Run Command
 
-python aadhaar_ml_pipeline.py
+`python aadhaar_ml_pipeline.py`
 
 
 
