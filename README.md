@@ -162,8 +162,9 @@ This framework is directly applicable to **UIDAI-style governance workflows**.
 ### Prerequisites
 ```bash
 pip install pandas numpy matplotlib scikit-learn joblib
+```
 
-Folder Structure
+## Folder Structure
 
 uidai/
 ├── aadhaar_ml_pipeline.py
@@ -172,5 +173,10 @@ uidai/
         ├── api_data_aadhar_enrolment.zip
         ├── api_data_aadhar_demographic.zip
         ├── api_data_aadhar_biometric.zip
+
+## Run Command
+
+python aadhaar_ml_pipeline.py
+
 
 
